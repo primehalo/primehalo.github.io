@@ -1,0 +1,20 @@
+{
+	"stable": {
+		"1.1": {
+			"current": "1.1.0",
+			"download": "http://www.absoluteanime.com/admin/phpbb3-extensions/primelinks.zip",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2458056",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"1.1": {
+			"current": "1.1.0",
+			"download": "http://www.absoluteanime.com/admin/phpbb3-extensions/primelinks.zip",
+			"announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2458056",
+			"eol": null,
+			"security": false
+		}
+	}
+}

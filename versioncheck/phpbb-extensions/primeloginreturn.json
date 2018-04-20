@@ -1,0 +1,20 @@
+{
+	"stable": {
+		"1.0": {
+			"current": "1.0.0",
+			"download": "http://www.absoluteanime.com/admin/phpbb3-extensions/primeloginreturn.zip",
+			"announcement": "https://www.phpbb.com/customise/db/mod/prime_login_return/support/topic/154171",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"1.0": {
+			"current": "1.0.0",
+			"download": "http://www.absoluteanime.com/admin/phpbb3-extensions/primeloginreturn.zip",
+			"announcement": "https://www.phpbb.com/customise/db/mod/prime_login_return/support/topic/154171",
+			"eol": null,
+			"security": false
+		}
+	}
+}
